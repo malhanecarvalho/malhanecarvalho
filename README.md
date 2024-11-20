@@ -17,7 +17,7 @@ Seja bem-vindo(a) ao meu perfil! Sou uma desenvolvedora Fullstack com foco na cr
 
 ## 🛠️ Projetos
 
-Aqui está um dos meus projetos que programei durante meu aprendizado, voltados para o setor de turismo:
+Este é um dos meus projetos que programei durante meu aprendizado, ume rede social voltada para o setor de turismo:
 
 ### 🏖️ [Photo App](https://github.com/malhanecarvalho/web_project_api_full)
 
@@ -25,7 +25,7 @@ App para compartilhar experiências, permitindo aos usuários criar, visualizar 
 
 ## 💡 Como eu posso ajudar
 
-Com a experiência adquirida no bootcamp da Tripleten, consigo aplicar minha expertise para:
+Com o conhecimento adquirido no bootcamp da Tripleten, consigo aplicar minha expertise para:
 
 -   **Desenvolver plataformas turísticas** (sites e aplicativos) que otimizam a jornada do viajante.
 -   **Construir APIs robustas** para integração com serviços de viagem como hotéis, voos, transporte, etc.
@@ -33,12 +33,12 @@ Com a experiência adquirida no bootcamp da Tripleten, consigo aplicar minha exp
 
 ## 📚 Sobre mim
 
-Sou um entusiasta de viagens e acredito no poder da tecnologia para conectar pessoas com novos destinos e culturas. Meu foco é utilizar ferramentas modernas para criar soluções que melhorem a experiência do turista e tragam inovação ao mercado de turismo. Além de programar, adoro explorar novos lugares, aprender sobre culturas diferentes e sempre procurar maneiras de melhorar as plataformas existentes.
+Sou uma entusiasta de viagens e acredito no poder da tecnologia para conectar pessoas com novos destinos e culturas. Meu foco é utilizar ferramentas modernas para criar soluções que melhorem a experiência do turista e tragam inovação ao mercado de turismo. Além de programar, adoro explorar novos lugares, aprender sobre culturas diferentes e sempre procurar maneiras de melhorar as plataformas existentes.
 
 ### 🔗 Vamos nos conectar!
 
--   [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BYOG%2F6HeGTkmZOkZ3gZqpNw%3D%3D)
--   malhanesilva26@gmail.com
+-  **LinkedIn:** [Malhane no LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BYOG%2F6HeGTkmZOkZ3gZqpNw%3D%3D)
+-  **E-mail:** malhanesilva26@gmail.com
 
 ## ⚡ Fatos divertidos
 
