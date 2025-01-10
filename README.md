@@ -22,11 +22,11 @@ Seja bem-vindo(a) ao meu perfil! Sou uma desenvolvedora Fullstack com foco na cr
 
 Estes são alguns dos meus projetos que programei durante meu aprendizado, uma rede social voltada para o setor de turismo:
 
-### 🌍 [News Explorer](https://github.com/malhanecarvalho/news-explorer)
+#### 🌍 [News Explorer](https://github.com/malhanecarvalho/news-explorer)
 
 - **Sobre o Projeto**: News Explorer é um aplicativo Full-Stack projetado para permitir que os usuários criem um perfil pesquisem por notícias e as salvem em seus perfis pessoais.
 
-### 🏖️ [Photo App](https://github.com/malhanecarvalho/web_project_api_full)
+#### 🏖️ [Photo App](https://github.com/malhanecarvalho/web_project_api_full)
 
 - **Sobre o Projeto**: App para compartilhar experiências, permitindo aos usuários criar, visualizar e interagir com cards de fotos. Implementado com React e Node.js, com autenticação e armazenamento de dados na nuvem.
 
