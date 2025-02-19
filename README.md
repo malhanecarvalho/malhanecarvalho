@@ -3,7 +3,9 @@
 ### Desenvolvedora Fullstack apaixonada por Tecnologia e Turismo
 
 Seja bem-vindo(a) ao meu perfil! Sou uma desenvolvedora Fullstack com foco na criação de soluções inovadoras para o setor de **turismo**. Meu objetivo é transformar a experiência do usuário, criando plataformas intuitivas e eficientes que conectam viajantes a novas aventuras.
+
 <img src="https://img.freepik.com/free-vector/custom-style-script-website-optimization-coding-software-development-female-programmer-cartoon-character-working-adding-javascript-css-code-vector-isolated-concept-metaphor-illustration_335657-2789.jpg?ga=GA1.1.2117902705.1731429722&semt=ais_hybrid" alt="Desenvolvedora Fullstack" width="300">
+
 ## 🚀 Tecnologias que eu uso
 
 -  **Frontend**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
